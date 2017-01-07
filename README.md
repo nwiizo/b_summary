@@ -23,6 +23,6 @@ using word position feature and Geometric sequence
 ```
 
 # Acknowledgments
-[A Study on Position Information in Document Summarization](http://aclweb.org/anthology/C/C10/C10-2106.pdf)
-[my_Blog](http://syu-m-5151.hatenablog.com/)
-[走れメロス](http://www.aozora.gr.jp/cards/000035/files/1567_14913.html)
+[A Study on Position Information in Document Summarization](http://aclweb.org/anthology/C/C10/C10-2106.pdf)  
+[my_Blog](http://syu-m-5151.hatenablog.com/)  
+[走れメロス](http://www.aozora.gr.jp/cards/000035/files/1567_14913.html)   
