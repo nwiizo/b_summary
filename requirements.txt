@@ -1,2 +1,2 @@
 numpy==1.22.0
-mecab-python==0.996
+mecab-python==1.0.0
